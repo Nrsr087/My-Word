@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassicInGame">
+    <Position X="34.75" Y="17" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="43.875" Y="20" />
+        <Point X="43.875" Y="19.177" />
+        <Point X="41.083" Y="19.177" Type="JumpStart" />
+        <Point X="40.917" Y="19.177" Type="JumpEnd" />
+        <Point X="35.5" Y="19.177" />
+        <Point X="35.5" Y="21.376" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICADAgAABADAAAAgAABAAIgAAgAAAAABAEA=</HashCode>
+      <FileName>Assets\PG\ClassicInGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiffData">
+    <Position X="46" Y="5" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.ScriptableObject" FixedFromPoint="true">
+      <Path>
+        <Point X="46.562" Y="10.5" />
+        <Point X="46.562" Y="7.377" />
+        <Point X="46.75" Y="7.377" />
+        <Point X="46.75" Y="7.002" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAUQAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\PG\DiffData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Category">
+    <Position X="35.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAIAAIAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\classes\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingWords">
+    <Position X="44.75" Y="15.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="44.812" Y="20" />
+        <Point X="44.812" Y="19.835" />
+        <Point X="44.766" Y="19.835" />
+        <Point X="44.766" Y="19.5" />
+        <Point X="45.5" Y="19.5" />
+        <Point X="45.5" Y="18.588" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAARAAAAAAAAAAQAAAAAIAABAAAAACAA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\SearchingWords\SearchingWords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingWordsList">
+    <Position X="47" Y="15" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="44.938" Y="20" />
+        <Point X="44.938" Y="19.625" />
+        <Point X="47.75" Y="19.625" />
+        <Point X="47.75" Y="19.568" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAKAQAACQAAAQgCAAAAABQAAABAFAAAAAgCA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\SearchingWords\SearchingWordsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CountDownTimer">
+    <Position X="39.5" Y="23" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="44.375" Y="23.799" />
+        <Point X="44.375" Y="22.25" />
+        <Point X="44.083" Y="22.25" Type="JumpStart" />
+        <Point X="43.917" Y="22.25" Type="JumpEnd" />
+        <Point X="43.458" Y="22.25" Type="JumpStart" />
+        <Point X="43.292" Y="22.25" Type="JumpEnd" />
+        <Point X="41.083" Y="22.25" Type="JumpStart" />
+        <Point X="40.917" Y="22.25" Type="JumpEnd" />
+        <Point X="40.25" Y="22.25" />
+        <Point X="40.25" Y="23" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAkAgBWQAQBAAAggACAAAAADAAAAAIAAAAAAAgEA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\CountDownTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEvents">
+    <Position X="41" Y="10.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="GameEvents.EnableSquareSelection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\GameSceneScripts\GameEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="GameEvents.DisableSquareSelection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\GameSceneScripts\GameEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="GameEvents.SelectSquare" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\GameSceneScripts\GameEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="GameEvents.CheckSquare" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\GameSceneScripts\GameEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="GameEvents.ClearSelection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\GameSceneScripts\GameEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="GameEvents.CorrectWord" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\GameSceneScripts\GameEvents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BARAAAAAAAAEAAIAAIAAAAAAAAAQIAAAAAgACAACEAA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\GameEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameSoundManager">
+    <Position X="28.5" Y="13" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="44.25" Y="20" />
+        <Point X="44.25" Y="16.628" />
+        <Point X="31.833" Y="16.628" Type="JumpStart" />
+        <Point X="31.667" Y="16.628" Type="JumpEnd" />
+        <Point X="29.25" Y="16.628" />
+        <Point X="29.25" Y="16.03" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAEgAAAAAAAAAAAABAAAAAAAACAAAAAEA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\GameSoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameUIEvents">
+    <Position X="47.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>joFEAYCFESAAAAgYgCAgCCEUISBQAAAAgjCoAhECDGI=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\GameUIEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GridSquar">
+    <Position X="40.25" Y="16.5" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="44.125" Y="20" />
+        <Point X="44.125" Y="19.444" />
+        <Point X="44.089" Y="19.444" />
+        <Point X="44.089" Y="18.316" />
+        <Point X="41" Y="18.316" />
+        <Point X="41" Y="22.481" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAACAAACJAIQJgAEAAEAAAAAEIIkAgAAACCBA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\GridSquar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordChecker">
+    <Position X="45.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQGSABAACAwQAEAAAAAKCAQCACASAEIAABAAQAACAA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\WordChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordsGrid">
+    <Position X="43.75" Y="25.25" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="44.625" Y="23.799" />
+        <Point X="44.625" Y="24.794" />
+        <Point X="44.5" Y="24.794" />
+        <Point X="44.5" Y="25.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>RBAAAAgAACAAABEAAABAAgAAAABAAAAQAAEAAQABAGA=</HashCode>
+      <FileName>Assets\scripts\GameSceneScripts\WordsGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMneuManager">
+    <Position X="37.25" Y="20" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="43.75" Y="21.715" />
+        <Point X="43.375" Y="21.715" />
+        <Point X="43.375" Y="20.146" />
+        <Point X="41.083" Y="20.146" Type="JumpStart" />
+        <Point X="40.917" Y="20.146" Type="JumpEnd" />
+        <Point X="38.75" Y="20.146" />
+        <Point X="38.75" Y="21.557" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BYAAgACgACAFAAAAgAAIIAAACABAACEACABQABAAAkI=</HashCode>
+      <FileName>Assets\scripts\Main_Menu scripts\MainMneuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlphabetData">
+    <Position X="40.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AlphabetData.LetterData">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\ScriptableObjects\AlphabetData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAIAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\ScriptableObjects\AlphabetData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardData">
+    <Position X="53.75" Y="8" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BoardData.SearchingWord">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\ScriptableObjects\BoardData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="BoardData.BoradRow">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\ScriptableObjects\BoardData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <InheritanceLine Type="UnityEngine.ScriptableObject" ManuallyRouted="true">
+      <Path>
+        <Point X="47.75" Y="10.844" />
+        <Point X="53.75" Y="10.844" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAEAAAAAAAAAAUAAAAAQAAAAEACAAAAA=</HashCode>
+      <FileName>Assets\scripts\ScriptableObjects\BoardData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameData">
+    <Position X="44" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\scripts\ScriptableObjects\GameData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLevelData">
+    <Position X="48.5" Y="8.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.ScriptableObject" FixedFromPoint="true">
+      <Path>
+        <Point X="47.312" Y="10.5" />
+        <Point X="47.312" Y="10.358" />
+        <Point X="48.167" Y="10.358" Type="JumpStart" />
+        <Point X="48.333" Y="10.358" Type="JumpEnd" />
+        <Point X="49.25" Y="10.358" />
+        <Point X="49.25" Y="9.983" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\scripts\ScriptableObjects\GameLevelData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneralGameSettings">
+    <Position X="48.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAAAAAEAAAABAAAAACAAQAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>Assets\scripts\ScriptableObjects\GeneralGameSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="categoriesSelectionManager">
+    <Position X="32.25" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIACAAACEBAAAAAAAAICAAAAgCEAEAQAAMQoAQgCA=</HashCode>
+      <FileName>Assets\scripts\selectCategoryScripts\categoriesSelectionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="levelsList">
+    <Position X="27.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAwAAEAgEACAAgBAAAAAAEBAAAAAAUA=</HashCode>
+      <FileName>Assets\scripts\selectCategoryScripts\levelsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActionFailed">
+    <Position X="32" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\ActionFailed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameUtility">
+    <Position X="45.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\GameUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuzzleProgressSaver">
+    <Position X="34.5" Y="22.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="44" Y="23.799" />
+        <Point X="44" Y="21.863" />
+        <Point X="43.458" Y="21.863" Type="JumpStart" />
+        <Point X="43.292" Y="21.863" Type="JumpEnd" />
+        <Point X="41.083" Y="21.863" Type="JumpStart" />
+        <Point X="40.917" Y="21.863" Type="JumpEnd" />
+        <Point X="35.25" Y="21.863" />
+        <Point X="35.25" Y="22.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAIAAAAAAQABAAAASAAAAgAAAAEA=</HashCode>
+      <FileName>Assets\scripts\PuzzleProgressSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PG.ClassicSelected">
+    <Position X="33.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAIAAAAAAAAAAAEAAABQAwAAAAQAAAJAAEA=</HashCode>
+      <FileName>Assets\PG\ClassicSelected.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="43.75" Y="20" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.Behaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="50.25" Y="20.25" />
+        <Point X="50.25" Y="19.75" />
+        <Point X="45.125" Y="19.75" />
+        <Point X="45.125" Y="20" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.ScriptableObject">
+    <Position X="46.25" Y="10.5" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.Object" ManuallyRouted="true">
+      <Path>
+        <Point X="52" Y="15.5" />
+        <Point X="52" Y="12.641" />
+        <Point X="47.188" Y="12.641" />
+        <Point X="47.188" Y="12.117" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="38" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.Behaviour">
+    <Position X="49.5" Y="20.25" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.Component" FixedFromPoint="true">
+      <Path>
+        <Point X="53.688" Y="22.75" />
+        <Point X="53.688" Y="22.502" />
+        <Point X="50.25" Y="22.502" />
+        <Point X="50.25" Y="22.127" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.Component">
+    <Position X="53.25" Y="22.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.Object">
+    <Position X="51.25" Y="15.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

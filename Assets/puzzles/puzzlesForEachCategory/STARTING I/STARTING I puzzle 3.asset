@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING I puzzle 3
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - O
+    - V
+    - L
+    - C
+    - N
+    - V
+    - T
+    - W
+  - Size: 8
+    Row:
+    - E
+    - Y
+    - L
+    - P
+    - M
+    - I
+    - P
+    - B
+  - Size: 8
+    Row:
+    - I
+    - W
+    - I
+    - D
+    - U
+    - O
+    - Q
+    - X
+  - Size: 8
+    Row:
+    - C
+    - I
+    - N
+    - N
+    - E
+    - R
+    - T
+    - V
+  - Size: 8
+    Row:
+    - M
+    - T
+    - D
+    - E
+    - U
+    - T
+    - U
+    - A
+  - Size: 8
+    Row:
+    - X
+    - P
+    - E
+    - U
+    - S
+    - K
+    - P
+    - U
+  - Size: 8
+    Row:
+    - A
+    - Q
+    - X
+    - X
+    - S
+    - Q
+    - N
+    - F
+  - Size: 8
+    Row:
+    - T
+    - Z
+    - H
+    - O
+    - I
+    - X
+    - I
+    - O
+  searchwords:
+  - word: INDEX
+  - word: INNER
+  - word: IMPLY
+  - word: ISSUE
+  - word: INPUT

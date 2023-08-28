@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING Z puzzle 04
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 100
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - W
+    - I
+    - O
+    - L
+    - I
+    - S
+    - K
+    - A
+    - Z
+    - C
+  - Size: 10
+    Row:
+    - M
+    - Z
+    - M
+    - F
+    - B
+    - G
+    - F
+    - Q
+    - O
+    - A
+  - Size: 10
+    Row:
+    - R
+    - E
+    - X
+    - O
+    - Q
+    - Z
+    - V
+    - K
+    - O
+    - I
+  - Size: 10
+    Row:
+    - V
+    - N
+    - Z
+    - O
+    - M
+    - B
+    - I
+    - E
+    - P
+    - B
+  - Size: 10
+    Row:
+    - D
+    - I
+    - R
+    - K
+    - N
+    - U
+    - Z
+    - P
+    - H
+    - O
+  - Size: 10
+    Row:
+    - P
+    - T
+    - L
+    - M
+    - B
+    - I
+    - F
+    - S
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - H
+    - H
+    - E
+    - U
+    - T
+    - Q
+    - K
+    - N
+    - T
+    - P
+  - Size: 10
+    Row:
+    - L
+    - T
+    - P
+    - H
+    - N
+    - O
+    - O
+    - G
+    - E
+    - O
+  - Size: 10
+    Row:
+    - O
+    - M
+    - E
+    - Y
+    - J
+    - V
+    - A
+    - P
+    - W
+    - O
+  - Size: 10
+    Row:
+    - X
+    - R
+    - F
+    - P
+    - L
+    - H
+    - S
+    - D
+    - J
+    - Z
+  searchwords:
+  - word: ZOOPHYTE
+  - word: ZOMBIE
+  - word: ZITHER
+  - word: ZOOPHOBIA
+  - word: ZENITH

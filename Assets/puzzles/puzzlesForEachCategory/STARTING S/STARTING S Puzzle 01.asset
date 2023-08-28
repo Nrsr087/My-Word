@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING S Puzzle 01
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 60
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - C
+    - M
+    - V
+    - E
+    - U
+    - S
+  - Size: 6
+    Row:
+    - V
+    - S
+    - A
+    - D
+    - Y
+    - C
+  - Size: 6
+    Row:
+    - C
+    - U
+    - Z
+    - S
+    - Y
+    - T
+  - Size: 6
+    Row:
+    - Y
+    - S
+    - K
+    - B
+    - P
+    - E
+  - Size: 6
+    Row:
+    - A
+    - Y
+    - O
+    - U
+    - S
+    - D
+  - Size: 6
+    Row:
+    - I
+    - M
+    - P
+    - N
+    - M
+    - M
+  searchwords:
+  - word: SAD
+  - word: SON
+  - word: SPY
+  - word: SUE
+  - word: SKY

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING R puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - Q
+    - G
+    - M
+    - O
+    - S
+    - C
+    - L
+    - Z
+    - R
+  - Size: 10
+    Row:
+    - X
+    - E
+    - A
+    - K
+    - Z
+    - X
+    - A
+    - S
+    - E
+    - R
+  - Size: 10
+    Row:
+    - B
+    - Q
+    - T
+    - H
+    - E
+    - C
+    - A
+    - S
+    - S
+    - U
+  - Size: 10
+    Row:
+    - P
+    - R
+    - E
+    - I
+    - I
+    - E
+    - T
+    - V
+    - B
+    - S
+  - Size: 10
+    Row:
+    - C
+    - D
+    - W
+    - D
+    - R
+    - A
+    - R
+    - L
+    - L
+    - S
+  - Size: 10
+    Row:
+    - W
+    - X
+    - A
+    - R
+    - U
+    - E
+    - T
+    - Q
+    - C
+    - I
+  - Size: 10
+    Row:
+    - U
+    - R
+    - Y
+    - R
+    - M
+    - G
+    - M
+    - B
+    - D
+    - A
+  - Size: 10
+    Row:
+    - P
+    - G
+    - A
+    - A
+    - U
+    - Y
+    - I
+    - E
+    - F
+    - N
+  - Size: 10
+    Row:
+    - M
+    - N
+    - R
+    - X
+    - F
+    - A
+    - O
+    - Z
+    - N
+    - M
+  - Size: 10
+    Row:
+    - T
+    - K
+    - Z
+    - J
+    - Y
+    - A
+    - V
+    - U
+    - P
+    - T
+  searchwords:
+  - word: RUSSIAN
+  - word: RETIREMENT
+  - word: RESTAURANT
+  - word: RADICAL
+  - word: REMARK

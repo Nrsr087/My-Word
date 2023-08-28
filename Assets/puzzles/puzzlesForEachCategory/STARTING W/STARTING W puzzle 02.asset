@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING W puzzle 02
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - W
+    - S
+    - L
+    - W
+    - E
+    - F
+  - Size: 6
+    Row:
+    - R
+    - G
+    - K
+    - I
+    - B
+    - N
+  - Size: 6
+    Row:
+    - A
+    - W
+    - R
+    - S
+    - Z
+    - D
+  - Size: 6
+    Row:
+    - P
+    - E
+    - O
+    - E
+    - O
+    - I
+  - Size: 6
+    Row:
+    - P
+    - A
+    - W
+    - O
+    - J
+    - Y
+  - Size: 6
+    Row:
+    - N
+    - R
+    - W
+    - A
+    - D
+    - I
+  searchwords:
+  - word: WISE
+  - word: WOOD
+  - word: WORK
+  - word: WRAP
+  - word: WEAR

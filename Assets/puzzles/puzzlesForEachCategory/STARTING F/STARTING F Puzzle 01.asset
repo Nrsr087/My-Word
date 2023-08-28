@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING F Puzzle 01
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 60
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - F
+    - H
+    - V
+    - X
+    - F
+    - W
+  - Size: 6
+    Row:
+    - H
+    - A
+    - D
+    - W
+    - E
+    - E
+  - Size: 6
+    Row:
+    - H
+    - D
+    - R
+    - E
+    - D
+    - F
+  - Size: 6
+    Row:
+    - V
+    - B
+    - F
+    - E
+    - J
+    - H
+  - Size: 6
+    Row:
+    - L
+    - M
+    - Y
+    - X
+    - I
+    - F
+  - Size: 6
+    Row:
+    - F
+    - L
+    - U
+    - O
+    - K
+    - C
+  searchwords:
+  - word: FAR
+  - word: FEE
+  - word: FEW
+  - word: FIX
+  - word: FLU

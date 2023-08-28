@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING P Puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - C
+    - L
+    - N
+    - W
+    - C
+    - K
+    - C
+    - E
+    - P
+  - Size: 10
+    Row:
+    - P
+    - R
+    - O
+    - M
+    - O
+    - T
+    - E
+    - V
+    - O
+    - G
+  - Size: 10
+    Row:
+    - R
+    - V
+    - Z
+    - A
+    - N
+    - O
+    - X
+    - P
+    - F
+    - Z
+  - Size: 10
+    Row:
+    - I
+    - A
+    - R
+    - V
+    - T
+    - F
+    - U
+    - A
+    - D
+    - L
+  - Size: 10
+    Row:
+    - N
+    - I
+    - X
+    - Q
+    - L
+    - L
+    - O
+    - U
+    - D
+    - U
+  - Size: 10
+    Row:
+    - C
+    - U
+    - L
+    - D
+    - A
+    - Z
+    - O
+    - O
+    - W
+    - F
+  - Size: 10
+    Row:
+    - I
+    - A
+    - J
+    - R
+    - U
+    - U
+    - M
+    - J
+    - U
+    - N
+  - Size: 10
+    Row:
+    - P
+    - E
+    - N
+    - O
+    - I
+    - S
+    - S
+    - A
+    - P
+    - I
+  - Size: 10
+    Row:
+    - L
+    - H
+    - J
+    - S
+    - G
+    - S
+    - X
+    - C
+    - L
+    - A
+  - Size: 10
+    Row:
+    - E
+    - U
+    - O
+    - R
+    - N
+    - W
+    - A
+    - F
+    - K
+    - P
+  searchwords:
+  - word: PAINFUL
+  - word: PASSION
+  - word: POPULAR
+  - word: PROMOTE
+  - word: PRINCIPLE

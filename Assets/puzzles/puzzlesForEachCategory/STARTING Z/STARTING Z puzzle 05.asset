@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING Z puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - W
+    - E
+    - M
+    - Q
+    - B
+    - G
+    - D
+    - Z
+    - R
+    - Z
+  - Size: 10
+    Row:
+    - G
+    - H
+    - T
+    - W
+    - A
+    - O
+    - H
+    - O
+    - R
+    - E
+  - Size: 10
+    Row:
+    - W
+    - S
+    - C
+    - Z
+    - Y
+    - F
+    - K
+    - S
+    - O
+    - A
+  - Size: 10
+    Row:
+    - H
+    - Q
+    - G
+    - Z
+    - I
+    - M
+    - R
+    - T
+    - H
+    - L
+  - Size: 10
+    Row:
+    - K
+    - I
+    - K
+    - Y
+    - O
+    - E
+    - F
+    - E
+    - R
+    - O
+  - Size: 10
+    Row:
+    - Z
+    - C
+    - I
+    - V
+    - P
+    - N
+    - L
+    - R
+    - P
+    - T
+  - Size: 10
+    Row:
+    - E
+    - Z
+    - T
+    - P
+    - R
+    - J
+    - U
+    - P
+    - T
+    - L
+  - Size: 10
+    Row:
+    - L
+    - U
+    - I
+    - Z
+    - O
+    - O
+    - C
+    - L
+    - H
+    - I
+  - Size: 10
+    Row:
+    - D
+    - Z
+    - L
+    - T
+    - N
+    - Z
+    - K
+    - H
+    - E
+    - X
+  - Size: 10
+    Row:
+    - L
+    - P
+    - H
+    - V
+    - S
+    - N
+    - L
+    - C
+    - H
+    - Z
+  searchwords:
+  - word: ZONULE
+  - word: ZEALOT
+  - word: ZOSTER
+  - word: ZIPPER
+  - word: ZIGZAG

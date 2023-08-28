@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING H puzzle 04
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 100
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - J
+    - H
+    - E
+    - Z
+    - L
+    - Y
+    - X
+    - W
+    - H
+    - G
+  - Size: 10
+    Row:
+    - Z
+    - E
+    - Q
+    - L
+    - B
+    - F
+    - A
+    - U
+    - E
+    - V
+  - Size: 10
+    Row:
+    - I
+    - A
+    - O
+    - E
+    - U
+    - I
+    - S
+    - H
+    - D
+    - I
+  - Size: 10
+    Row:
+    - Q
+    - D
+    - L
+    - B
+    - X
+    - B
+    - W
+    - O
+    - E
+    - Z
+  - Size: 10
+    Row:
+    - M
+    - A
+    - L
+    - K
+    - A
+    - Q
+    - S
+    - R
+    - R
+    - K
+  - Size: 10
+    Row:
+    - X
+    - C
+    - S
+    - N
+    - S
+    - E
+    - Z
+    - R
+    - D
+    - Y
+  - Size: 10
+    Row:
+    - F
+    - H
+    - D
+    - Q
+    - I
+    - J
+    - Y
+    - O
+    - N
+    - M
+  - Size: 10
+    Row:
+    - I
+    - E
+    - Y
+    - G
+    - D
+    - Q
+    - Y
+    - R
+    - U
+    - U
+  - Size: 10
+    Row:
+    - F
+    - H
+    - I
+    - S
+    - T
+    - O
+    - R
+    - Y
+    - H
+    - C
+  - Size: 10
+    Row:
+    - V
+    - U
+    - B
+    - B
+    - C
+    - P
+    - P
+    - D
+    - S
+    - L
+  searchwords:
+  - word: HUSBAND
+  - word: HUNDRED
+  - word: HEADACHE
+  - word: HORROR
+  - word: HISTORY

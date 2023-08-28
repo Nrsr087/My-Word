@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING G puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - V
+    - Z
+    - W
+    - X
+    - D
+    - Y
+    - G
+    - U
+    - G
+    - N
+  - Size: 10
+    Row:
+    - R
+    - I
+    - Q
+    - L
+    - Q
+    - T
+    - O
+    - N
+    - T
+    - L
+  - Size: 10
+    Row:
+    - R
+    - V
+    - K
+    - G
+    - L
+    - X
+    - I
+    - U
+    - M
+    - U
+  - Size: 10
+    Row:
+    - E
+    - L
+    - B
+    - I
+    - L
+    - L
+    - U
+    - G
+    - M
+    - F
+  - Size: 10
+    Row:
+    - I
+    - M
+    - D
+    - Y
+    - B
+    - R
+    - B
+    - D
+    - B
+    - E
+  - Size: 10
+    Row:
+    - O
+    - S
+    - K
+    - M
+    - Q
+    - P
+    - F
+    - D
+    - P
+    - C
+  - Size: 10
+    Row:
+    - G
+    - L
+    - A
+    - S
+    - S
+    - E
+    - S
+    - O
+    - X
+    - A
+  - Size: 10
+    Row:
+    - Y
+    - G
+    - V
+    - P
+    - M
+    - D
+    - P
+    - T
+    - D
+    - R
+  - Size: 10
+    Row:
+    - U
+    - E
+    - J
+    - N
+    - C
+    - R
+    - E
+    - E
+    - S
+    - G
+  - Size: 10
+    Row:
+    - G
+    - E
+    - N
+    - E
+    - R
+    - A
+    - L
+    - D
+    - D
+    - L
+  searchwords:
+  - word: GAMBLING
+  - word: GLASSES
+  - word: GENERAL
+  - word: GRACEFUL
+  - word: GULLIBLE

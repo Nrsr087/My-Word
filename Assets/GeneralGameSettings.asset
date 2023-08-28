@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33baacf12d2ed4c42a13eaa3dcd3e5d1, type: 3}
+  m_Name: GeneralGameSettings
+  m_EditorClassIdentifier: 
+  moreGamesLink: https://play.google.com/store/games?hl=en&gl=US
+  instagram_username: 
+  facebook_page_ID: 
+  PrivacyPolicyLink: https://unity3d.com/legal/privacy-policy
+  gameId: ca-app-pub-3940256099942544/3419835294
+  InterstitialAdId: ca-app-pub-8582794486361882/1559393985
+  BannerAd_ID: ca-app-pub-8582794486361882/7647942573
+  showInterstitialAfter_n_win: 2
+  CoinsNumberToSkipPuzzle: 200
+  CoinsNumberToAddExtraTime: 50
+  collectedCoinsEch_level: 60
+  Gdpr_message: We care about your privacy and data security. We keep apps free by
+    showing ads. Can we continure to use your data to adjust ads for you ?
+  click_sound: {fileID: 8300000, guid: 953ba56fc900c3a4888b0abdc9686a62, type: 3}
+  countDownSoundClock: {fileID: 8300000, guid: fa3c6bd70a9671349a16faa4386c6e63, type: 3}

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING  C puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - C
+    - I
+    - G
+    - A
+    - R
+    - C
+    - F
+    - M
+  - Size: 8
+    Row:
+    - V
+    - N
+    - O
+    - A
+    - P
+    - O
+    - G
+    - V
+  - Size: 8
+    Row:
+    - Z
+    - C
+    - Z
+    - N
+    - T
+    - M
+    - J
+    - C
+  - Size: 8
+    Row:
+    - S
+    - I
+    - U
+    - P
+    - H
+    - I
+    - T
+    - U
+  - Size: 8
+    Row:
+    - Q
+    - I
+    - Y
+    - B
+    - I
+    - C
+    - T
+    - R
+  - Size: 8
+    Row:
+    - R
+    - R
+    - S
+    - T
+    - I
+    - E
+    - I
+    - V
+  - Size: 8
+    Row:
+    - C
+    - D
+    - Y
+    - P
+    - J
+    - C
+    - V
+    - E
+  - Size: 8
+    Row:
+    - U
+    - J
+    - K
+    - L
+    - S
+    - I
+    - E
+    - F
+  searchwords:
+  - word: CIGAR
+  - word: COMIC
+  - word: CURVE
+  - word: CRYPT
+  - word: CUBIC

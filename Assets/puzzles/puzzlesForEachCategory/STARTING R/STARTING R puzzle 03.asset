@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING R puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - J
+    - R
+    - E
+    - U
+    - X
+    - G
+    - N
+    - R
+  - Size: 8
+    Row:
+    - Q
+    - E
+    - H
+    - S
+    - D
+    - H
+    - B
+    - R
+  - Size: 8
+    Row:
+    - Q
+    - A
+    - X
+    - D
+    - I
+    - H
+    - B
+    - A
+  - Size: 8
+    Row:
+    - R
+    - D
+    - R
+    - J
+    - L
+    - A
+    - J
+    - D
+  - Size: 8
+    Row:
+    - O
+    - Y
+    - X
+    - A
+    - L
+    - E
+    - R
+    - I
+  - Size: 8
+    Row:
+    - R
+    - E
+    - F
+    - E
+    - R
+    - Z
+    - Z
+    - O
+  - Size: 8
+    Row:
+    - T
+    - U
+    - I
+    - R
+    - J
+    - H
+    - L
+    - S
+  - Size: 8
+    Row:
+    - Y
+    - Z
+    - S
+    - P
+    - Z
+    - X
+    - H
+    - U
+  searchwords:
+  - word: RADIO
+  - word: REFER
+  - word: RELAX
+  - word: READY
+  - word: RAISE

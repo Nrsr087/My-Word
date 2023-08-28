@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING L Puzzle 02
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - A
+    - O
+    - J
+    - L
+    - D
+    - A
+  - Size: 6
+    Row:
+    - W
+    - U
+    - U
+    - A
+    - X
+    - J
+  - Size: 6
+    Row:
+    - Z
+    - L
+    - O
+    - Y
+    - A
+    - L
+  - Size: 6
+    Row:
+    - N
+    - L
+    - J
+    - D
+    - P
+    - I
+  - Size: 6
+    Row:
+    - D
+    - H
+    - K
+    - A
+    - B
+    - V
+  - Size: 6
+    Row:
+    - G
+    - N
+    - O
+    - L
+    - P
+    - E
+  searchwords:
+  - word: LIVE
+  - word: LADY
+  - word: LOAD
+  - word: LONG
+  - word: LOYAL

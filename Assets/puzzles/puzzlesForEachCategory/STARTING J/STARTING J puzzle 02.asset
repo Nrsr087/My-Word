@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING J puzzle 02
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - K
+    - J
+    - U
+    - M
+    - P
+    - I
+  - Size: 6
+    Row:
+    - N
+    - F
+    - J
+    - J
+    - P
+    - S
+  - Size: 6
+    Row:
+    - E
+    - O
+    - U
+    - O
+    - O
+    - K
+  - Size: 6
+    Row:
+    - K
+    - T
+    - R
+    - I
+    - M
+    - A
+  - Size: 6
+    Row:
+    - O
+    - R
+    - Y
+    - N
+    - V
+    - G
+  - Size: 6
+    Row:
+    - J
+    - B
+    - T
+    - S
+    - U
+    - J
+  searchwords:
+  - word: JOIN
+  - word: JURY
+  - word: JUST
+  - word: JUMP
+  - word: JOKE

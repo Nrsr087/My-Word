@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING I puzzle 2
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - W
+    - Q
+    - V
+    - K
+    - H
+    - I
+  - Size: 6
+    Row:
+    - H
+    - I
+    - D
+    - E
+    - A
+    - N
+  - Size: 6
+    Row:
+    - Z
+    - I
+    - D
+    - W
+    - O
+    - C
+  - Size: 6
+    Row:
+    - N
+    - I
+    - C
+    - T
+    - M
+    - H
+  - Size: 6
+    Row:
+    - C
+    - W
+    - N
+    - O
+    - R
+    - I
+  - Size: 6
+    Row:
+    - I
+    - I
+    - X
+    - W
+    - N
+    - S
+  searchwords:
+  - word: INCH
+  - word: INTO
+  - word: IDEA
+  - word: IRON
+  - word: ICON

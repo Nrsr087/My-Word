@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0305b4240253a87469c7aedee4a5736f, type: 3}
+  m_Name: GameLevelsData
+  m_EditorClassIdentifier: 
+  gameCategories:
+  - category_name: START A
+    IscategroyOpned: 1
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 73a4565aefbee4445b940c3cae5e94a2, type: 2}
+    - {fileID: 11400000, guid: 6b36dde0d0c13f94bba58ef9fa08eb8f, type: 2}
+    - {fileID: 11400000, guid: 8492ae354ddbd4f48b0a3ba9b07d1692, type: 2}
+    - {fileID: 11400000, guid: 383665fa12b8b1d4cac6a659b2bc2873, type: 2}
+    - {fileID: 11400000, guid: 41135209fc825d345906da15e60ac555, type: 2}
+    coinsToUnlock: 0
+  - category_name: START B
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: d9edcfb2354cddf4cb6384173d010cb5, type: 2}
+    - {fileID: 11400000, guid: 3dcd76ca96d940843a9a11ed304906f4, type: 2}
+    - {fileID: 11400000, guid: 69c56cb7ff0598d4f916cdd7a4d5b715, type: 2}
+    - {fileID: 11400000, guid: f0bd49e056c61bf46965ec598f6a7497, type: 2}
+    - {fileID: 11400000, guid: d0ff0dbfa2bc0e9448b2560833ac6b26, type: 2}
+    coinsToUnlock: 100
+  - category_name: START C
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 75e3a7086e7035a42a0b5eeff9307b0c, type: 2}
+    - {fileID: 11400000, guid: b5d468b95aa4f96428701ae94568f91a, type: 2}
+    - {fileID: 11400000, guid: 4749dfe8e95f0c844b1b66a9c557f28d, type: 2}
+    - {fileID: 11400000, guid: 00e6943f31d16c849956af044bb5d159, type: 2}
+    - {fileID: 11400000, guid: 82bbe10eab7e82745a667b22427ea7e5, type: 2}
+    coinsToUnlock: 100
+  - category_name: START D
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: a7e1ee3ff1e3117418d84678f796f8d5, type: 2}
+    - {fileID: 11400000, guid: 9918986714429664eb1e3c7331c93772, type: 2}
+    - {fileID: 11400000, guid: d5042a8045d2f544c897e4c31786df79, type: 2}
+    - {fileID: 11400000, guid: 533c53eb92221bd4491c8b01b0635354, type: 2}
+    - {fileID: 11400000, guid: a4adc414dc5ec7949a1d91e624747e0a, type: 2}
+    coinsToUnlock: 100
+  - category_name: START E
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: cc0bcdb5664c11343906918925484b5e, type: 2}
+    - {fileID: 11400000, guid: 4e33d9a3168722f4a9992141d7dc4dcf, type: 2}
+    - {fileID: 11400000, guid: b84a0a0c78132aa4e97ce5a2b615b4f6, type: 2}
+    - {fileID: 11400000, guid: bca68e5382e091346a4f3a9768c8a85c, type: 2}
+    - {fileID: 11400000, guid: a78a6ccc26faa424bab0daba9e7292da, type: 2}
+    coinsToUnlock: 100
+  - category_name: START F
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: aacf09555bbc52443be9402c9de49175, type: 2}
+    - {fileID: 11400000, guid: c3880937a741f324e9358c49dad62b57, type: 2}
+    - {fileID: 11400000, guid: d734cb1e2da21114cabcf148cc55c610, type: 2}
+    - {fileID: 11400000, guid: 60dac587e291fd246b3504e9fa65be5f, type: 2}
+    - {fileID: 11400000, guid: 3d4a1b3d258335a4197f00fcbc0812b7, type: 2}
+    coinsToUnlock: 200
+  - category_name: START G
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: e3d06746f57d4444aa9589bcf70f01a1, type: 2}
+    - {fileID: 11400000, guid: 067b32c568a8c2c4388c2d0a4fb8f7c4, type: 2}
+    - {fileID: 11400000, guid: 5fbcf689f75345f41b1366ab0c57bc7b, type: 2}
+    - {fileID: 11400000, guid: 44af5a66c6565c6439dcede00feae5b2, type: 2}
+    - {fileID: 11400000, guid: a21693995f61bfa499cee5a41d27174e, type: 2}
+    coinsToUnlock: 200
+  - category_name: START H
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 2dbb3317c6a649444a0c7719a06fe73c, type: 2}
+    - {fileID: 11400000, guid: dc8cc79b305fe4348bdf870b38c9e274, type: 2}
+    - {fileID: 11400000, guid: 3455be98bffc31f4a8f6c9a05a6896c9, type: 2}
+    - {fileID: 11400000, guid: 37af48ae69404674ea7fc60335fa2ed1, type: 2}
+    - {fileID: 11400000, guid: fcd2e37235a3b884683b3fc8cb597059, type: 2}
+    coinsToUnlock: 300
+  - category_name: START I
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 0a25785f0307d284bbbeea89dabf4813, type: 2}
+    - {fileID: 11400000, guid: b04e1054a5c0b54439fbeacd64b60c67, type: 2}
+    - {fileID: 11400000, guid: 095142410bef0e747b56d2971da501a5, type: 2}
+    - {fileID: 11400000, guid: 9c586fbf89e88364281233a27bdcfdd9, type: 2}
+    - {fileID: 11400000, guid: 62a9eaf24c0d9764fbce4e656d8fbb45, type: 2}
+    coinsToUnlock: 300
+  - category_name: START J
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: b925cc4e4d0cc5849aba5bdbcaa5b312, type: 2}
+    - {fileID: 11400000, guid: bde91ab733aeef64888d5f6cf51106a7, type: 2}
+    - {fileID: 11400000, guid: 2f181277fe1cfda4292f568fa6cc31bb, type: 2}
+    - {fileID: 11400000, guid: eac0dd63485e4df4c9fd20c4118f8f7e, type: 2}
+    - {fileID: 11400000, guid: 5d89e921c826ca64e83dcc17ba6b2dca, type: 2}
+    coinsToUnlock: 300
+  - category_name: START L
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: bdb1e45fbc450504895f9acc83b63d5c, type: 2}
+    - {fileID: 11400000, guid: f3b9342828743464a8dadfd271ea4a94, type: 2}
+    - {fileID: 11400000, guid: 185d9f348f9ef71429bd97e54d4b24fe, type: 2}
+    - {fileID: 11400000, guid: 72711c60d416f174180defca29a96070, type: 2}
+    - {fileID: 11400000, guid: 33081ecef4f41fb48b6fa72d16cf65c8, type: 2}
+    coinsToUnlock: 300
+  - category_name: START M
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 1fc141d9cf7097b438ee3e320cb7d807, type: 2}
+    - {fileID: 11400000, guid: 5f6c2fc2ce9c52941bb2a3c139c2a360, type: 2}
+    - {fileID: 11400000, guid: 04dea6e364a3bba478f6f873002b1f8a, type: 2}
+    - {fileID: 11400000, guid: b059a0913b45f8140b521c4d6d70e9b0, type: 2}
+    - {fileID: 11400000, guid: 83567ce78bbf5644dae1aeea656793d4, type: 2}
+    coinsToUnlock: 300
+  - category_name: START N
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: f314bc57aa2335c409393016db1bf72a, type: 2}
+    - {fileID: 11400000, guid: e2a341197c7660447ba0408e1639e229, type: 2}
+    - {fileID: 11400000, guid: 278afde2df99ffa44861e65302e0cb00, type: 2}
+    - {fileID: 11400000, guid: 212af48fa79af8c409abcc9e1c6c8609, type: 2}
+    - {fileID: 11400000, guid: 7155c3f73931397418b40979bb8e6e12, type: 2}
+    coinsToUnlock: 300
+  - category_name: START O
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 7be66d7f73728034eaa01eb53759134d, type: 2}
+    - {fileID: 11400000, guid: a37da9344f2e5ce448c05bbf7cd123f6, type: 2}
+    - {fileID: 11400000, guid: 5a2ca39ff4b025842afbb4dffbcb5f6f, type: 2}
+    - {fileID: 11400000, guid: a99daa499f15163418fc14ae2568a149, type: 2}
+    - {fileID: 11400000, guid: 3ca92c3f513bea045b0919a73c247f75, type: 2}
+    coinsToUnlock: 300
+  - category_name: START P
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 24b124f1a6126d04b996a5f66dd4ded9, type: 2}
+    - {fileID: 11400000, guid: 34290b33fcc065e489ef9a13a7b86ee4, type: 2}
+    - {fileID: 11400000, guid: 6def051d36560d942830963cf2a45f09, type: 2}
+    - {fileID: 11400000, guid: e3d1421381ade8241a93cdacc61615ec, type: 2}
+    - {fileID: 11400000, guid: 7b48c4609370c6349a0f6d5b18737479, type: 2}
+    coinsToUnlock: 300
+  - category_name: START R
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 6c2661c003a2cd545ac3e998e082950d, type: 2}
+    - {fileID: 11400000, guid: 75fcf6116b7b9cb47bb222cc1ecb21b0, type: 2}
+    - {fileID: 11400000, guid: 334b5d8076d21f346839977b60a72770, type: 2}
+    - {fileID: 11400000, guid: e28d1760a7b322541951655eaac6eba5, type: 2}
+    - {fileID: 11400000, guid: d63d2b93d72653a4cb0fff1201f315ce, type: 2}
+    coinsToUnlock: 400
+  - category_name: START S
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: cb64779852a5a3743bfae551d9797d29, type: 2}
+    - {fileID: 11400000, guid: 040b7181c1d163741908e35c4765c02a, type: 2}
+    - {fileID: 11400000, guid: d3afaff160077564da09e90ee2335770, type: 2}
+    - {fileID: 11400000, guid: 179e4fc8d3e8b17418582b1ef881565c, type: 2}
+    - {fileID: 11400000, guid: 4618da80e7f36cd4482e63499d0e5a52, type: 2}
+    coinsToUnlock: 400
+  - category_name: START T
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 509e5bcd8d6e28a4d956a41b0e7eb3b9, type: 2}
+    - {fileID: 11400000, guid: f928fd82dc4448141ba668137f62e23b, type: 2}
+    - {fileID: 11400000, guid: ff230ea5d6b130943891cbacc7dfb3f7, type: 2}
+    - {fileID: 11400000, guid: 81b0cbf761ad1bf4e8c06e940e713655, type: 2}
+    - {fileID: 11400000, guid: 48daf6ad0f0ab234d83c31c499c6679e, type: 2}
+    coinsToUnlock: 400
+  - category_name: START W
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: 5583f00d30833234894f83932e1832fe, type: 2}
+    - {fileID: 11400000, guid: a7edd4c0de91dbf42b034cc0b0607da5, type: 2}
+    - {fileID: 11400000, guid: bcc2ed5c83a1b6046b2bc82b040ba164, type: 2}
+    - {fileID: 11400000, guid: 46481a98cf526024b9382a7a3c2a78fd, type: 2}
+    - {fileID: 11400000, guid: 7a8f0db94d4085c478f643e6494e44ac, type: 2}
+    coinsToUnlock: 400
+  - category_name: START Z
+    IscategroyOpned: 0
+    PuzzleBoards:
+    - {fileID: 11400000, guid: c93d91c485b1d1d42b00281a67bf8097, type: 2}
+    - {fileID: 11400000, guid: c7eb6be6033e4e6468bfb59146a11bd8, type: 2}
+    - {fileID: 11400000, guid: b6d2a4eb735f022449939606c823557d, type: 2}
+    - {fileID: 11400000, guid: 9a760cabe9f99df47aaec8e92caae2f6, type: 2}
+    - {fileID: 11400000, guid: 10670f30bfdb4da4b9a77d842a9bbbfd, type: 2}
+    coinsToUnlock: 400

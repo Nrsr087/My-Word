@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING W puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - W
+    - A
+    - W
+    - E
+    - G
+    - D
+    - C
+    - Y
+  - Size: 8
+    Row:
+    - I
+    - T
+    - V
+    - I
+    - R
+    - A
+    - S
+    - R
+  - Size: 8
+    Row:
+    - D
+    - W
+    - N
+    - A
+    - J
+    - E
+    - G
+    - R
+  - Size: 8
+    Row:
+    - T
+    - E
+    - H
+    - V
+    - C
+    - G
+    - H
+    - O
+  - Size: 8
+    Row:
+    - H
+    - S
+    - Y
+    - E
+    - X
+    - D
+    - T
+    - W
+  - Size: 8
+    Row:
+    - E
+    - R
+    - L
+    - R
+    - E
+    - Z
+    - W
+    - R
+  - Size: 8
+    Row:
+    - N
+    - O
+    - Z
+    - D
+    - F
+    - L
+    - E
+    - T
+  - Size: 8
+    Row:
+    - V
+    - W
+    - X
+    - K
+    - X
+    - X
+    - P
+    - M
+  searchwords:
+  - word: WHEEL
+  - word: WHERE
+  - word: WIDTH
+  - word: WORRY
+  - word: WORSE

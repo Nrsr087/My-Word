@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING D puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - Q
+    - S
+    - H
+    - M
+    - R
+    - W
+    - U
+    - Y
+  - Size: 8
+    Row:
+    - G
+    - J
+    - E
+    - D
+    - A
+    - F
+    - X
+    - T
+  - Size: 8
+    Row:
+    - N
+    - W
+    - Z
+    - S
+    - D
+    - E
+    - X
+    - R
+  - Size: 8
+    Row:
+    - L
+    - W
+    - B
+    - E
+    - V
+    - T
+    - R
+    - I
+  - Size: 8
+    Row:
+    - X
+    - E
+    - L
+    - G
+    - Q
+    - B
+    - M
+    - D
+  - Size: 8
+    Row:
+    - O
+    - A
+    - C
+    - B
+    - K
+    - U
+    - X
+    - K
+  - Size: 8
+    Row:
+    - Y
+    - A
+    - C
+    - E
+    - D
+    - O
+    - N
+    - M
+  - Size: 8
+    Row:
+    - Y
+    - K
+    - C
+    - X
+    - S
+    - D
+    - R
+    - C
+  searchwords:
+  - word: DELAY
+  - word: DECAY
+  - word: DREAM
+  - word: DIRTY
+  - word: DOUBT

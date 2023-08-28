@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING P Puzzle 02
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - Y
+    - A
+    - L
+    - P
+    - P
+    - L
+  - Size: 6
+    Row:
+    - T
+    - E
+    - R
+    - I
+    - M
+    - P
+  - Size: 6
+    Row:
+    - K
+    - F
+    - N
+    - I
+    - A
+    - T
+  - Size: 6
+    Row:
+    - L
+    - K
+    - L
+    - T
+    - A
+    - O
+  - Size: 6
+    Row:
+    - V
+    - Z
+    - H
+    - W
+    - C
+    - P
+  - Size: 6
+    Row:
+    - U
+    - P
+    - M
+    - U
+    - P
+    - O
+  searchwords:
+  - word: PAIR
+  - word: PATH
+  - word: PINK
+  - word: PLAY
+  - word: PUMP

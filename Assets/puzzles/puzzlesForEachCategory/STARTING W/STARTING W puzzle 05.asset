@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING W puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - I
+    - X
+    - Y
+    - L
+    - W
+    - I
+    - T
+    - J
+    - G
+    - W
+  - Size: 10
+    Row:
+    - S
+    - W
+    - A
+    - B
+    - O
+    - X
+    - N
+    - M
+    - U
+    - I
+  - Size: 10
+    Row:
+    - A
+    - H
+    - D
+    - A
+    - R
+    - T
+    - P
+    - O
+    - D
+    - L
+  - Size: 10
+    Row:
+    - A
+    - A
+    - S
+    - V
+    - S
+    - X
+    - H
+    - W
+    - Y
+    - L
+  - Size: 10
+    Row:
+    - Z
+    - T
+    - E
+    - N
+    - H
+    - W
+    - Q
+    - L
+    - D
+    - I
+  - Size: 10
+    Row:
+    - E
+    - E
+    - N
+    - P
+    - I
+    - Q
+    - G
+    - T
+    - Y
+    - N
+  - Size: 10
+    Row:
+    - J
+    - V
+    - D
+    - N
+    - P
+    - N
+    - C
+    - R
+    - U
+    - G
+  - Size: 10
+    Row:
+    - A
+    - E
+    - E
+    - U
+    - O
+    - Z
+    - G
+    - K
+    - J
+    - N
+  - Size: 10
+    Row:
+    - H
+    - R
+    - W
+    - R
+    - S
+    - P
+    - C
+    - B
+    - V
+    - K
+  - Size: 10
+    Row:
+    - D
+    - A
+    - W
+    - Z
+    - F
+    - P
+    - R
+    - S
+    - E
+    - O
+  searchwords:
+  - word: WEDNESDAY
+  - word: WHATEVER
+  - word: WILLING
+  - word: WORSHIP
+  - word: WRONGLY

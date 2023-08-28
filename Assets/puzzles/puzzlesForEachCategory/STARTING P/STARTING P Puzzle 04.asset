@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING P Puzzle 04
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 100
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - T
+    - P
+    - A
+    - H
+    - K
+    - C
+    - J
+    - C
+    - E
+    - H
+  - Size: 10
+    Row:
+    - O
+    - O
+    - D
+    - E
+    - N
+    - K
+    - D
+    - S
+    - M
+    - N
+  - Size: 10
+    Row:
+    - Q
+    - W
+    - T
+    - A
+    - W
+    - O
+    - U
+    - Y
+    - P
+    - T
+  - Size: 10
+    Row:
+    - J
+    - E
+    - U
+    - C
+    - L
+    - V
+    - S
+    - S
+    - E
+    - P
+  - Size: 10
+    Row:
+    - W
+    - R
+    - V
+    - L
+    - I
+    - Y
+    - T
+    - I
+    - D
+    - H
+  - Size: 10
+    Row:
+    - A
+    - F
+    - R
+    - A
+    - A
+    - N
+    - U
+    - P
+    - R
+    - H
+  - Size: 10
+    Row:
+    - Q
+    - U
+    - A
+    - P
+    - E
+    - N
+    - B
+    - V
+    - Q
+    - P
+  - Size: 10
+    Row:
+    - V
+    - L
+    - O
+    - T
+    - I
+    - F
+    - O
+    - R
+    - P
+    - Z
+  - Size: 10
+    Row:
+    - I
+    - C
+    - A
+    - K
+    - V
+    - O
+    - T
+    - O
+    - X
+    - Q
+  - Size: 10
+    Row:
+    - I
+    - P
+    - Y
+    - J
+    - T
+    - L
+    - L
+    - Z
+    - B
+    - W
+  searchwords:
+  - word: PALCAE
+  - word: PATENT
+  - word: PROFIT
+  - word: PRISON
+  - word: POWERFUL

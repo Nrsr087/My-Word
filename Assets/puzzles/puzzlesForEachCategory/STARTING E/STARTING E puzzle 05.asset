@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING E puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - Q
+    - U
+    - R
+    - H
+    - K
+    - H
+    - V
+    - G
+    - C
+  - Size: 10
+    Row:
+    - X
+    - W
+    - W
+    - E
+    - F
+    - F
+    - E
+    - C
+    - T
+    - Q
+  - Size: 10
+    Row:
+    - A
+    - J
+    - P
+    - E
+    - Z
+    - R
+    - L
+    - N
+    - P
+    - O
+  - Size: 10
+    Row:
+    - M
+    - A
+    - Z
+    - M
+    - F
+    - C
+    - E
+    - Y
+    - E
+    - Y
+  - Size: 10
+    Row:
+    - P
+    - B
+    - S
+    - P
+    - C
+    - M
+    - Z
+    - Z
+    - A
+    - L
+  - Size: 10
+    Row:
+    - L
+    - L
+    - K
+    - L
+    - Y
+    - C
+    - R
+    - N
+    - U
+    - R
+  - Size: 10
+    Row:
+    - E
+    - F
+    - H
+    - O
+    - C
+    - R
+    - M
+    - P
+    - O
+    - E
+  - Size: 10
+    Row:
+    - P
+    - Y
+    - J
+    - Y
+    - M
+    - H
+    - Y
+    - T
+    - U
+    - D
+  - Size: 10
+    Row:
+    - Q
+    - N
+    - P
+    - E
+    - W
+    - K
+    - O
+    - J
+    - T
+    - L
+  - Size: 10
+    Row:
+    - E
+    - Q
+    - R
+    - E
+    - R
+    - T
+    - T
+    - H
+    - M
+    - E
+  searchwords:
+  - word: EXAMPLE
+  - word: ENJOYMENT
+  - word: EFFECT
+  - word: ELDERLY
+  - word: EMPLOYEE

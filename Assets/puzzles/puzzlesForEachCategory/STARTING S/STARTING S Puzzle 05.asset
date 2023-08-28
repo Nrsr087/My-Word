@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING S Puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - I
+    - T
+    - U
+    - A
+    - T
+    - I
+    - O
+    - N
+    - K
+  - Size: 10
+    Row:
+    - T
+    - S
+    - W
+    - J
+    - U
+    - S
+    - T
+    - Z
+    - L
+    - S
+  - Size: 10
+    Row:
+    - E
+    - E
+    - T
+    - L
+    - J
+    - C
+    - N
+    - A
+    - T
+    - M
+  - Size: 10
+    Row:
+    - Y
+    - N
+    - G
+    - V
+    - S
+    - G
+    - W
+    - A
+    - D
+    - B
+  - Size: 10
+    Row:
+    - V
+    - T
+    - T
+    - A
+    - E
+    - E
+    - T
+    - C
+    - E
+    - E
+  - Size: 10
+    Row:
+    - Z
+    - I
+    - F
+    - V
+    - D
+    - E
+    - P
+    - T
+    - M
+    - V
+  - Size: 10
+    Row:
+    - N
+    - M
+    - Y
+    - I
+    - M
+    - G
+    - Z
+    - O
+    - L
+    - H
+  - Size: 10
+    Row:
+    - S
+    - E
+    - S
+    - E
+    - F
+    - Y
+    - L
+    - M
+    - B
+    - R
+  - Size: 10
+    Row:
+    - G
+    - N
+    - N
+    - U
+    - S
+    - Y
+    - M
+    - B
+    - O
+    - L
+  - Size: 10
+    Row:
+    - G
+    - T
+    - O
+    - U
+    - M
+    - B
+    - J
+    - M
+    - C
+    - M
+  searchwords:
+  - word: SENTIMENT
+  - word: SIDEWALK
+  - word: SITUATION
+  - word: STATEMENT
+  - word: SYMBOL

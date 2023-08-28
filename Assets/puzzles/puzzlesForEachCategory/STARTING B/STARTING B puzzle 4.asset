@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING B puzzle 4
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 100
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - V
+    - U
+    - B
+    - J
+    - S
+    - G
+    - E
+    - B
+    - S
+  - Size: 10
+    Row:
+    - L
+    - A
+    - K
+    - R
+    - D
+    - V
+    - L
+    - X
+    - P
+    - O
+  - Size: 10
+    Row:
+    - U
+    - O
+    - R
+    - N
+    - R
+    - T
+    - V
+    - S
+    - O
+    - C
+  - Size: 10
+    Row:
+    - F
+    - M
+    - E
+    - R
+    - T
+    - Y
+    - O
+    - J
+    - Z
+    - B
+  - Size: 10
+    Row:
+    - I
+    - W
+    - N
+    - O
+    - I
+    - V
+    - T
+    - N
+    - D
+    - K
+  - Size: 10
+    Row:
+    - T
+    - K
+    - B
+    - M
+    - O
+    - E
+    - P
+    - T
+    - M
+    - V
+  - Size: 10
+    Row:
+    - U
+    - D
+    - V
+    - J
+    - N
+    - F
+    - R
+    - C
+    - K
+    - A
+  - Size: 10
+    Row:
+    - A
+    - I
+    - C
+    - E
+    - T
+    - E
+    - L
+    - L
+    - E
+    - B
+  - Size: 10
+    Row:
+    - E
+    - K
+    - X
+    - Y
+    - D
+    - H
+    - N
+    - X
+    - O
+    - J
+  - Size: 10
+    Row:
+    - B
+    - R
+    - A
+    - I
+    - N
+    - Y
+    - X
+    - O
+    - W
+    - Q
+  searchwords:
+  - word: BELLET
+  - word: BOTTLE
+  - word: BRAIN
+  - word: BEAUTIFUL
+  - word: BARRIER

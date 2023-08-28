@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING I puzzle 5
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - L
+    - Y
+    - Y
+    - F
+    - I
+    - T
+    - N
+    - E
+    - D
+    - I
+  - Size: 10
+    Row:
+    - G
+    - K
+    - R
+    - O
+    - Q
+    - B
+    - X
+    - T
+    - A
+    - D
+  - Size: 10
+    Row:
+    - H
+    - Q
+    - H
+    - T
+    - I
+    - U
+    - T
+    - O
+    - S
+    - E
+  - Size: 10
+    Row:
+    - R
+    - U
+    - Z
+    - Y
+    - S
+    - N
+    - N
+    - X
+    - X
+    - A
+  - Size: 10
+    Row:
+    - W
+    - F
+    - D
+    - J
+    - E
+    - U
+    - S
+    - P
+    - Y
+    - L
+  - Size: 10
+    Row:
+    - E
+    - A
+    - U
+    - V
+    - M
+    - T
+    - D
+    - T
+    - Y
+    - I
+  - Size: 10
+    Row:
+    - I
+    - F
+    - N
+    - Z
+    - M
+    - W
+    - X
+    - N
+    - U
+    - S
+  - Size: 10
+    Row:
+    - R
+    - I
+    - I
+    - J
+    - U
+    - Y
+    - J
+    - P
+    - I
+    - T
+  - Size: 10
+    Row:
+    - T
+    - D
+    - E
+    - Z
+    - F
+    - U
+    - O
+    - R
+    - S
+    - I
+  - Size: 10
+    Row:
+    - R
+    - I
+    - M
+    - A
+    - G
+    - I
+    - N
+    - E
+    - Z
+    - C
+  searchwords:
+  - word: IDENTIFY
+  - word: IMAGINE
+  - word: INVENT
+  - word: INDUSTRY
+  - word: IDEALISTIC

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING J puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - J
+    - E
+    - W
+    - E
+    - L
+    - R
+    - Y
+    - G
+    - Y
+  - Size: 10
+    Row:
+    - J
+    - M
+    - M
+    - Q
+    - A
+    - D
+    - A
+    - S
+    - V
+    - F
+  - Size: 10
+    Row:
+    - O
+    - C
+    - Y
+    - D
+    - J
+    - E
+    - S
+    - M
+    - B
+    - J
+  - Size: 10
+    Row:
+    - U
+    - Y
+    - H
+    - J
+    - U
+    - S
+    - T
+    - I
+    - F
+    - Y
+  - Size: 10
+    Row:
+    - R
+    - R
+    - H
+    - Q
+    - S
+    - D
+    - R
+    - H
+    - M
+    - Y
+  - Size: 10
+    Row:
+    - A
+    - A
+    - J
+    - D
+    - T
+    - W
+    - D
+    - A
+    - Z
+    - L
+  - Size: 10
+    Row:
+    - L
+    - U
+    - G
+    - V
+    - I
+    - Z
+    - O
+    - A
+    - N
+    - R
+  - Size: 10
+    Row:
+    - I
+    - N
+    - J
+    - R
+    - C
+    - A
+    - V
+    - M
+    - I
+    - J
+  - Size: 10
+    Row:
+    - S
+    - A
+    - L
+    - V
+    - E
+    - H
+    - Z
+    - A
+    - P
+    - N
+  - Size: 10
+    Row:
+    - T
+    - J
+    - Z
+    - R
+    - I
+    - Z
+    - M
+    - A
+    - X
+    - V
+  searchwords:
+  - word: JUSTICE
+  - word: JANUARY
+  - word: JEWELRY
+  - word: JOURALIST
+  - word: JUSTIFY

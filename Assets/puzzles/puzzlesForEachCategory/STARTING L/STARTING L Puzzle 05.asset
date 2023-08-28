@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING L Puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - F
+    - X
+    - L
+    - I
+    - Z
+    - L
+    - B
+    - L
+    - C
+  - Size: 10
+    Row:
+    - U
+    - Y
+    - L
+    - N
+    - X
+    - I
+    - Y
+    - Y
+    - E
+    - B
+  - Size: 10
+    Row:
+    - A
+    - C
+    - F
+    - A
+    - G
+    - T
+    - E
+    - G
+    - G
+    - S
+  - Size: 10
+    Row:
+    - Y
+    - X
+    - T
+    - H
+    - N
+    - D
+    - D
+    - P
+    - A
+    - Q
+  - Size: 10
+    Row:
+    - H
+    - D
+    - T
+    - E
+    - X
+    - G
+    - T
+    - I
+    - C
+    - J
+  - Size: 10
+    Row:
+    - I
+    - L
+    - D
+    - F
+    - F
+    - L
+    - U
+    - K
+    - Y
+    - I
+  - Size: 10
+    Row:
+    - Y
+    - N
+    - B
+    - Y
+    - U
+    - I
+    - W
+    - A
+    - N
+    - V
+  - Size: 10
+    Row:
+    - L
+    - O
+    - Y
+    - A
+    - L
+    - T
+    - Y
+    - X
+    - G
+    - B
+  - Size: 10
+    Row:
+    - F
+    - L
+    - I
+    - C
+    - E
+    - N
+    - C
+    - E
+    - X
+    - E
+  - Size: 10
+    Row:
+    - M
+    - H
+    - F
+    - Z
+    - F
+    - C
+    - U
+    - J
+    - N
+    - U
+  searchwords:
+  - word: LANGUAGE
+  - word: LICENCE
+  - word: LEGACY
+  - word: LOYALTY
+  - word: LIGHTLY

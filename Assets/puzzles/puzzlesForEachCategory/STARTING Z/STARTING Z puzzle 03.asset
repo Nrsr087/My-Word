@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING Z puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - J
+    - L
+    - Z
+    - Z
+    - I
+    - Q
+    - N
+    - K
+  - Size: 8
+    Row:
+    - Z
+    - Y
+    - A
+    - W
+    - S
+    - W
+    - N
+    - Z
+  - Size: 8
+    Row:
+    - U
+    - Z
+    - I
+    - L
+    - C
+    - H
+    - E
+    - V
+  - Size: 8
+    Row:
+    - E
+    - H
+    - R
+    - L
+    - Z
+    - B
+    - C
+    - R
+  - Size: 8
+    Row:
+    - U
+    - K
+    - E
+    - O
+    - R
+    - J
+    - E
+    - M
+  - Size: 8
+    Row:
+    - W
+    - G
+    - N
+    - A
+    - N
+    - R
+    - B
+    - J
+  - Size: 8
+    Row:
+    - O
+    - A
+    - G
+    - Q
+    - J
+    - W
+    - E
+    - O
+  - Size: 8
+    Row:
+    - L
+    - P
+    - J
+    - E
+    - R
+    - B
+    - Z
+    - S
+  searchwords:
+  - word: ZAIRE
+  - word: ZILCH
+  - word: ZEBRA
+  - word: ZONAL
+  - word: ZEBEC

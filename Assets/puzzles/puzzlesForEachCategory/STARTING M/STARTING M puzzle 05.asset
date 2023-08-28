@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING M puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - G
+    - R
+    - S
+    - J
+    - B
+    - M
+    - Y
+    - T
+    - D
+    - F
+  - Size: 10
+    Row:
+    - Z
+    - M
+    - M
+    - T
+    - Y
+    - E
+    - K
+    - N
+    - O
+    - M
+  - Size: 10
+    Row:
+    - M
+    - I
+    - R
+    - E
+    - L
+    - U
+    - Q
+    - M
+    - N
+    - G
+  - Size: 10
+    Row:
+    - L
+    - L
+    - R
+    - P
+    - A
+    - Q
+    - T
+    - J
+    - F
+    - M
+  - Size: 10
+    Row:
+    - Y
+    - I
+    - E
+    - C
+    - B
+    - N
+    - I
+    - G
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - P
+    - T
+    - T
+    - T
+    - O
+    - R
+    - I
+    - S
+    - R
+    - D
+  - Size: 10
+    Row:
+    - L
+    - A
+    - T
+    - S
+    - W
+    - O
+    - T
+    - N
+    - T
+    - L
+  - Size: 10
+    Row:
+    - S
+    - R
+    - A
+    - F
+    - C
+    - E
+    - M
+    - O
+    - G
+    - D
+  - Size: 10
+    Row:
+    - P
+    - Y
+    - M
+    - K
+    - R
+    - O
+    - K
+    - Z
+    - S
+    - E
+  - Size: 10
+    Row:
+    - L
+    - G
+    - V
+    - Y
+    - X
+    - B
+    - U
+    - P
+    - W
+    - S
+  searchwords:
+  - word: MATTER
+  - word: MONKEY
+  - word: MEANING
+  - word: MILITARY
+  - word: MYSTERY

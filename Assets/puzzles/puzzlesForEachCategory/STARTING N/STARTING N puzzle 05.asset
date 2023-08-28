@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING N puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Q
+    - T
+    - N
+    - E
+    - I
+    - R
+    - T
+    - U
+    - N
+    - U
+  - Size: 10
+    Row:
+    - W
+    - Z
+    - N
+    - N
+    - S
+    - T
+    - A
+    - G
+    - M
+    - D
+  - Size: 10
+    Row:
+    - N
+    - X
+    - O
+    - L
+    - M
+    - V
+    - J
+    - X
+    - E
+    - O
+  - Size: 10
+    Row:
+    - O
+    - P
+    - T
+    - M
+    - J
+    - G
+    - R
+    - A
+    - P
+    - F
+  - Size: 10
+    Row:
+    - V
+    - N
+    - E
+    - A
+    - R
+    - B
+    - Y
+    - M
+    - E
+    - S
+  - Size: 10
+    Row:
+    - E
+    - Z
+    - B
+    - H
+    - J
+    - X
+    - N
+    - V
+    - U
+    - A
+  - Size: 10
+    Row:
+    - L
+    - A
+    - O
+    - O
+    - M
+    - S
+    - U
+    - O
+    - Z
+    - C
+  - Size: 10
+    Row:
+    - T
+    - Y
+    - O
+    - V
+    - R
+    - T
+    - V
+    - L
+    - H
+    - G
+  - Size: 10
+    Row:
+    - Y
+    - K
+    - K
+    - R
+    - X
+    - E
+    - C
+    - X
+    - E
+    - U
+  - Size: 10
+    Row:
+    - O
+    - N
+    - Q
+    - L
+    - N
+    - O
+    - C
+    - T
+    - M
+    - J
+  searchwords:
+  - word: NOTEBOOK
+  - word: NEARBY
+  - word: NEVOUS
+  - word: NUTRIENT
+  - word: NOVELTY

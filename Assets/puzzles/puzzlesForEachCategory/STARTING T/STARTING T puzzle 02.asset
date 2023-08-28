@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING T puzzle 02
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - T
+    - E
+    - T
+    - N
+    - T
+    - Z
+  - Size: 6
+    Row:
+    - T
+    - E
+    - M
+    - C
+    - A
+    - F
+  - Size: 6
+    Row:
+    - E
+    - O
+    - N
+    - T
+    - I
+    - Y
+  - Size: 6
+    Row:
+    - S
+    - R
+    - A
+    - T
+    - L
+    - E
+  - Size: 6
+    Row:
+    - T
+    - L
+    - Z
+    - D
+    - H
+    - H
+  - Size: 6
+    Row:
+    - K
+    - I
+    - L
+    - I
+    - S
+    - T
+  searchwords:
+  - word: TAIL
+  - word: TALK
+  - word: TENT
+  - word: TEST
+  - word: THEY

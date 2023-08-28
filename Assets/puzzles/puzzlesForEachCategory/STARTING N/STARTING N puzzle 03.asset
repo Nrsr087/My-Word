@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING N puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - R
+    - Z
+    - G
+    - W
+    - R
+    - C
+    - L
+    - N
+  - Size: 8
+    Row:
+    - H
+    - H
+    - N
+    - D
+    - Z
+    - W
+    - N
+    - A
+  - Size: 8
+    Row:
+    - U
+    - T
+    - O
+    - X
+    - W
+    - A
+    - E
+    - Z
+  - Size: 8
+    Row:
+    - R
+    - N
+    - I
+    - M
+    - S
+    - J
+    - T
+    - H
+  - Size: 8
+    Row:
+    - E
+    - I
+    - S
+    - T
+    - C
+    - P
+    - L
+    - G
+  - Size: 8
+    Row:
+    - V
+    - N
+    - Y
+    - J
+    - D
+    - R
+    - V
+    - H
+  - Size: 8
+    Row:
+    - E
+    - Z
+    - D
+    - W
+    - H
+    - E
+    - H
+    - F
+  - Size: 8
+    Row:
+    - N
+    - W
+    - N
+    - O
+    - V
+    - E
+    - L
+    - L
+  searchwords:
+  - word: NOISY
+  - word: NASTY
+  - word: NINTH
+  - word: NOVEL
+  - word: NEVER

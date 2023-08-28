@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING F Puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - F
+    - R
+    - Y
+    - Y
+    - G
+    - F
+    - J
+    - X
+    - K
+    - L
+  - Size: 10
+    Row:
+    - A
+    - H
+    - X
+    - X
+    - A
+    - X
+    - T
+    - F
+    - F
+    - C
+  - Size: 10
+    Row:
+    - S
+    - C
+    - J
+    - H
+    - B
+    - A
+    - E
+    - R
+    - E
+    - X
+  - Size: 10
+    Row:
+    - H
+    - K
+    - D
+    - V
+    - F
+    - I
+    - N
+    - G
+    - E
+    - R
+  - Size: 10
+    Row:
+    - I
+    - N
+    - Z
+    - W
+    - A
+    - X
+    - Q
+    - K
+    - L
+    - A
+  - Size: 10
+    Row:
+    - O
+    - K
+    - H
+    - R
+    - B
+    - C
+    - L
+    - R
+    - I
+    - C
+  - Size: 10
+    Row:
+    - N
+    - S
+    - F
+    - K
+    - R
+    - O
+    - Q
+    - T
+    - N
+    - S
+  - Size: 10
+    Row:
+    - X
+    - T
+    - Y
+    - O
+    - I
+    - M
+    - Y
+    - Y
+    - G
+    - T
+  - Size: 10
+    Row:
+    - X
+    - M
+    - E
+    - R
+    - C
+    - W
+    - V
+    - P
+    - D
+    - B
+  - Size: 10
+    Row:
+    - O
+    - F
+    - A
+    - I
+    - L
+    - U
+    - R
+    - E
+    - M
+    - M
+  searchwords:
+  - word: FABRIC
+  - word: FAILURE
+  - word: FASHION
+  - word: FEELING
+  - word: FINGER

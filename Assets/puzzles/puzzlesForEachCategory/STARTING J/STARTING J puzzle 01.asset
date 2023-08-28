@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING J puzzle 01
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 60
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - D
+    - T
+    - W
+    - D
+    - Z
+    - T
+  - Size: 6
+    Row:
+    - C
+    - E
+    - J
+    - J
+    - C
+    - G
+  - Size: 6
+    Row:
+    - J
+    - J
+    - A
+    - W
+    - M
+    - G
+  - Size: 6
+    Row:
+    - F
+    - U
+    - R
+    - J
+    - R
+    - X
+  - Size: 6
+    Row:
+    - S
+    - M
+    - Z
+    - S
+    - O
+    - V
+  - Size: 6
+    Row:
+    - Q
+    - J
+    - A
+    - W
+    - C
+    - B
+  searchwords:
+  - word: JAR
+  - word: JEW
+  - word: JET
+  - word: JOB
+  - word: JAW

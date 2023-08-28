@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING H puzzle 05
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 120
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - C
+    - Y
+    - Y
+    - Z
+    - M
+    - J
+    - G
+    - A
+    - D
+    - L
+  - Size: 10
+    Row:
+    - T
+    - H
+    - G
+    - I
+    - L
+    - H
+    - G
+    - I
+    - H
+    - A
+  - Size: 10
+    Row:
+    - Z
+    - I
+    - H
+    - J
+    - I
+    - J
+    - R
+    - I
+    - O
+    - T
+  - Size: 10
+    Row:
+    - L
+    - Z
+    - D
+    - A
+    - L
+    - C
+    - S
+    - K
+    - F
+    - I
+  - Size: 10
+    Row:
+    - G
+    - D
+    - J
+    - V
+    - N
+    - O
+    - D
+    - I
+    - W
+    - P
+  - Size: 10
+    Row:
+    - B
+    - F
+    - G
+    - W
+    - Q
+    - D
+    - L
+    - U
+    - P
+    - S
+  - Size: 10
+    Row:
+    - I
+    - C
+    - C
+    - M
+    - W
+    - X
+    - S
+    - V
+    - K
+    - O
+  - Size: 10
+    Row:
+    - C
+    - S
+    - S
+    - E
+    - L
+    - E
+    - M
+    - O
+    - H
+    - H
+  - Size: 10
+    Row:
+    - P
+    - X
+    - S
+    - F
+    - C
+    - Y
+    - B
+    - W
+    - M
+    - D
+  - Size: 10
+    Row:
+    - H
+    - E
+    - S
+    - I
+    - T
+    - A
+    - T
+    - E
+    - G
+    - E
+  searchwords:
+  - word: HOSPITAL
+  - word: HIGHLIGHT
+  - word: HESITATE
+  - word: HANDSOME
+  - word: HOMELESS

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING D puzzle 02
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - E
+    - W
+    - U
+    - F
+    - D
+    - D
+  - Size: 6
+    Row:
+    - K
+    - T
+    - Z
+    - A
+    - L
+    - I
+  - Size: 6
+    Row:
+    - S
+    - Z
+    - R
+    - E
+    - Y
+    - E
+  - Size: 6
+    Row:
+    - E
+    - E
+    - Z
+    - A
+    - N
+    - T
+  - Size: 6
+    Row:
+    - D
+    - J
+    - V
+    - Q
+    - E
+    - K
+  - Size: 6
+    Row:
+    - I
+    - T
+    - A
+    - I
+    - D
+    - D
+  searchwords:
+  - word: DARE
+  - word: DEAR
+  - word: DENY
+  - word: DESK
+  - word: DIET

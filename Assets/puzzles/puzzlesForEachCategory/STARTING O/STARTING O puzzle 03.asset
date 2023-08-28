@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING O puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - B
+    - R
+    - E
+    - H
+    - T
+    - O
+    - N
+    - H
+  - Size: 8
+    Row:
+    - I
+    - L
+    - M
+    - A
+    - F
+    - N
+    - V
+    - B
+  - Size: 8
+    Row:
+    - Y
+    - W
+    - A
+    - N
+    - O
+    - I
+    - U
+    - S
+  - Size: 8
+    Row:
+    - M
+    - V
+    - O
+    - A
+    - Y
+    - O
+    - O
+    - Y
+  - Size: 8
+    Row:
+    - A
+    - C
+    - U
+    - G
+    - I
+    - N
+    - F
+    - L
+  - Size: 8
+    Row:
+    - L
+    - L
+    - T
+    - R
+    - A
+    - J
+    - T
+    - K
+  - Size: 8
+    Row:
+    - D
+    - M
+    - E
+    - O
+    - J
+    - P
+    - E
+    - X
+  - Size: 8
+    Row:
+    - A
+    - Z
+    - R
+    - X
+    - J
+    - V
+    - N
+    - T
+  searchwords:
+  - word: OUTER
+  - word: OTHER
+  - word: ORGAN
+  - word: ONION
+  - word: OFTEN

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING S Puzzle 04
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 100
+  colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Y
+    - U
+    - Q
+    - Y
+    - W
+    - F
+    - R
+    - E
+    - W
+    - S
+  - Size: 10
+    Row:
+    - R
+    - S
+    - M
+    - M
+    - U
+    - A
+    - E
+    - H
+    - J
+    - A
+  - Size: 10
+    Row:
+    - A
+    - G
+    - P
+    - M
+    - J
+    - N
+    - T
+    - H
+    - B
+    - C
+  - Size: 10
+    Row:
+    - D
+    - U
+    - Z
+    - O
+    - G
+    - M
+    - E
+    - O
+    - D
+    - R
+  - Size: 10
+    Row:
+    - N
+    - Z
+    - Y
+    - E
+    - K
+    - I
+    - E
+    - X
+    - S
+    - I
+  - Size: 10
+    Row:
+    - O
+    - R
+    - U
+    - V
+    - Y
+    - E
+    - W
+    - Y
+    - Y
+    - F
+  - Size: 10
+    Row:
+    - C
+    - I
+    - L
+    - E
+    - L
+    - F
+    - S
+    - G
+    - G
+    - I
+  - Size: 10
+    Row:
+    - E
+    - V
+    - Z
+    - E
+    - K
+    - T
+    - B
+    - M
+    - E
+    - C
+  - Size: 10
+    Row:
+    - S
+    - J
+    - A
+    - P
+    - E
+    - B
+    - V
+    - Y
+    - A
+    - E
+  - Size: 10
+    Row:
+    - W
+    - U
+    - E
+    - M
+    - B
+    - B
+    - K
+    - M
+    - H
+    - N
+  searchwords:
+  - word: SPOKESMAN
+  - word: SACRIFICE
+  - word: SECONDARY
+  - word: SWEETER
+  - word: SYSTEM

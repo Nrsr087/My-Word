@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING G puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - O
+    - O
+    - L
+    - U
+    - I
+    - Z
+    - G
+    - F
+  - Size: 8
+    Row:
+    - G
+    - R
+    - A
+    - H
+    - F
+    - R
+    - E
+    - A
+  - Size: 8
+    Row:
+    - R
+    - S
+    - U
+    - X
+    - I
+    - G
+    - E
+    - O
+  - Size: 8
+    Row:
+    - O
+    - H
+    - G
+    - L
+    - Y
+    - R
+    - G
+    - T
+  - Size: 8
+    Row:
+    - U
+    - I
+    - L
+    - F
+    - J
+    - A
+    - N
+    - N
+  - Size: 8
+    Row:
+    - P
+    - X
+    - L
+    - P
+    - A
+    - Z
+    - O
+    - A
+  - Size: 8
+    Row:
+    - K
+    - H
+    - T
+    - S
+    - E
+    - E
+    - G
+    - I
+  - Size: 8
+    Row:
+    - X
+    - A
+    - U
+    - N
+    - H
+    - J
+    - P
+    - G
+  searchwords:
+  - word: GRAZE
+  - word: GRILL
+  - word: GEEST
+  - word: GROUP
+  - word: GIANT

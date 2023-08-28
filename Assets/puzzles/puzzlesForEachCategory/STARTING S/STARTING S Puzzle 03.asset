@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING S Puzzle 03
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 80
+  colums: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - G
+    - U
+    - I
+    - E
+    - R
+    - O
+    - C
+    - S
+  - Size: 8
+    Row:
+    - Y
+    - T
+    - E
+    - S
+    - W
+    - E
+    - L
+    - L
+  - Size: 8
+    Row:
+    - Z
+    - C
+    - N
+    - W
+    - S
+    - P
+    - S
+    - O
+  - Size: 8
+    Row:
+    - K
+    - P
+    - S
+    - E
+    - G
+    - S
+    - H
+    - K
+  - Size: 8
+    Row:
+    - Z
+    - T
+    - I
+    - E
+    - M
+    - L
+    - O
+    - N
+  - Size: 8
+    Row:
+    - L
+    - Z
+    - C
+    - T
+    - E
+    - K
+    - C
+    - T
+  - Size: 8
+    Row:
+    - E
+    - Y
+    - R
+    - A
+    - C
+    - S
+    - K
+    - O
+  - Size: 8
+    Row:
+    - R
+    - Z
+    - Q
+    - V
+    - F
+    - J
+    - M
+    - Q
+  searchwords:
+  - word: SWEET
+  - word: SCARY
+  - word: SCORE
+  - word: SEIZE
+  - word: SHOCK

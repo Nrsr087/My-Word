@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b372a82041e72a249b648916e2cbb37b, type: 3}
+  m_Name: STARTING M puzzle 01
+  m_EditorClassIdentifier: 
+  TimeInSecconds: 60
+  colums: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - U
+    - N
+    - B
+    - L
+    - W
+    - O
+  - Size: 6
+    Row:
+    - E
+    - Y
+    - M
+    - A
+    - N
+    - H
+  - Size: 6
+    Row:
+    - P
+    - M
+    - A
+    - P
+    - D
+    - L
+  - Size: 6
+    Row:
+    - J
+    - I
+    - D
+    - D
+    - U
+    - G
+  - Size: 6
+    Row:
+    - L
+    - X
+    - N
+    - N
+    - M
+    - Z
+  - Size: 6
+    Row:
+    - C
+    - J
+    - F
+    - R
+    - E
+    - Q
+  searchwords:
+  - word: MAD
+  - word: MAN
+  - word: MIX
+  - word: MUD
+  - word: MAP
